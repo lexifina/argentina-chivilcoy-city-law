@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-chivilcoy",
+  "code": "AR-B-CHIVILCOY",
+  "name": "Chivilcoy",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-chivilcoy-city-law",
+  "build": "built: municipal ordinances (209 ordinances, 209 versions) from https://sibom.slyt.gba.gob.ar/cities/32",
+  "language": "es",
+  "sources": 1
+}
